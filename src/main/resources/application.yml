@@ -1,0 +1,3 @@
+spring:
+  kafka:
+    bootstrapAddress: http://localhost:9092
